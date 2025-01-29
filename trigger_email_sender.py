@@ -44,7 +44,7 @@ root = tk.Tk()
 root.title("Отправка триггерного письма")
 
 tk.Label(root, text="Введите адрес электронной почты:").pack()
-email_entry = tk.Entry(root, width=300)
+email_entry = tk.Entry(root, width=30)
 email_entry.pack()
 tk.Button(root, text="Подтвердить", command=trigger_email).pack()
 
