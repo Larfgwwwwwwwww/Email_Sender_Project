@@ -71,4 +71,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()#python email_sender.py email.sender.script05@gmail.com email.sender.script_password АДРЕСС_ПОЛУЧАТЕЛЕЙ “ТЕКСТ” “$(type email_body.html)” ПУТЬ_К_ФОТОГРАФИИ”
+    main()#python email_sender.py email.sender.script05@gmail.com dxjp aihk mfrr croq АДРЕСС_ПОЛУЧАТЕЛЕЙ “ТЕКСТ” “$(type email_body.html)” ПУТЬ_К_ФОТОГРАФИИ”
