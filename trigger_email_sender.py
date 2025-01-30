@@ -10,8 +10,8 @@ def send_trigger_email(recipient_email):
     random_number = random.randint(10000, 99999)
 
     # Настройка email
-    from_email = "email.rassialky1@gmail.com"  # Ваш email
-    password = "4212 976 685"  # Ваш пароль
+    from_email = "email.sender.script05@gmail.com"  # Ваш email
+    password = "0431951765"  # Ваш пароль
     subject = "Ваш код безопасности"
     body = f"Ваш код безопасности: {random_number}"
 
