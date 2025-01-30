@@ -11,7 +11,7 @@ def send_trigger_email(recipient_email):
 
     # Настройка email
     from_email = "email.sender.script05@gmail.com"  # Ваш email
-    password = "2735 0475"  # Ваш пароль
+    password = "dxjp aihk mfrr croq"  # Ваш пароль
     subject = "Ваш код безопасности"
     body = f"Ваш код безопасности: {random_number}"
 
